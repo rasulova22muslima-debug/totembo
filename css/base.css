@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Montserrat" , sans-serif;
+}
+:root {
+    --bg:#fff;
+    --white:#fff:
+}
+.container {
+    max-width: 1350px;
+    padding: 0 15px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+.body {
+    min-width: 320px;
+}
