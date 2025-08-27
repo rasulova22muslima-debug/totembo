@@ -36,12 +36,12 @@
 
 }
 
-@media screen and (max-width:1360px) {
+@media screen and (max-width:1350px) {
     .leaders__title::after {
         content: "";
         background: #323232;
         height: 2px;
-        width: 100%;
+        width: 90%;
         bottom: 0;
         margin: 20px auto 0;
         display: block;
